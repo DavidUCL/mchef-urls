@@ -15,7 +15,7 @@ if (!linkHash) {
     document.title = 'Error';
     document.querySelector('h1').textContent =
         'Error: linkHash parameter is missing.';
-} else if (!/^[a-f0-9]{16}$/i.test(linkHash)) {
+} else if (!/^[a-f0-9]{40}$/i.test(linkHash)) {
     document.title = 'Error';
     document.querySelector('h1').textContent =
         'Error: Invalid linkHash.';
