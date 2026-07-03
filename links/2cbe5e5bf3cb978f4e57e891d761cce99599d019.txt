@@ -1,0 +1,1 @@
+https://moodle-playground.com/?blueprint-url=https://raw.githubusercontent.com/DavidUCL/mchef-urls/integrationtest/blueprints/integration-test.json
