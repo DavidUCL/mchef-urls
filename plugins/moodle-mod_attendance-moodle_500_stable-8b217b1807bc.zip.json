@@ -1,0 +1,7 @@
+{
+    "source": "https://github.com/danmarsden/moodle-mod_attendance/archive/MOODLE_500_STABLE.zip",
+    "repo": "https://github.com/danmarsden/moodle-mod_attendance",
+    "ref": "MOODLE_500_STABLE",
+    "commit": "8b217b1807bc0d33b3ac3b50ba516a7aaa7f367c",
+    "vendoredAt": "2026-07-28T02:33:21+00:00"
+}
