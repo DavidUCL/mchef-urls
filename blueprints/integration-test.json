@@ -17,15 +17,15 @@
         },
         {
             "step": "installMoodlePlugin",
-            "url": "https://github.com/moodle-an-hochschulen/moodle-theme_boost_union/archive/MOODLE_500_STABLE.zip"
+            "url": "https://raw.githubusercontent.com/DavidUCL/mchef-urls/integrationtest/plugins/moodle-theme_boost_union-moodle_500_stable-a734ebc2fe60.zip"
         },
         {
             "step": "installMoodlePlugin",
-            "url": "https://github.com/danmarsden/moodle-mod_attendance/archive/MOODLE_500_STABLE.zip"
+            "url": "https://raw.githubusercontent.com/DavidUCL/mchef-urls/integrationtest/plugins/moodle-mod_attendance-moodle_500_stable-8b217b1807bc.zip"
         },
         {
             "step": "installMoodlePlugin",
-            "url": "https://github.com/iarenaza/moodle-filter_multilang2/archive/master.zip"
+            "url": "https://raw.githubusercontent.com/DavidUCL/mchef-urls/integrationtest/plugins/moodle-filter_multilang2-master-12122660b067.zip"
         },
         {
             "step": "setTheme",
